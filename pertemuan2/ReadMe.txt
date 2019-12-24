@@ -1,0 +1,1 @@
+Pertemuan kali ini membahas tentang Class & Object

@@ -1,0 +1,1 @@
+Pertemuan kali ini kita akan mambahas tentang Property & Method
